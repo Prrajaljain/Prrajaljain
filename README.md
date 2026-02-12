@@ -1,21 +1,29 @@
 # 👋 Hi, I'm Prajal Jain
 ### 🤖 AI & Robotics Engineer | 3rd Year Engineering Student | Pune, India
 
-I specialize in bridging the gap between sophisticated software and physical hardware. My passion lies in building autonomous systems that solve real-world problems using **Computer Vision**, **Embedded Systems**, and **Data Engineering**.
+I specialize in bridging the gap between sophisticated software and physical hardware. My passion lies in building autonomous systems using **Computer Vision**, **Embedded Systems**, and **Data Engineering**.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🕹️ System Status & Achievement Unlocked
+![Visitor Count](https://komarev.com/ghpvc/?username=Prrajaljain&label=RECRUITER%20VIEWS&color=0e7afe&style=flat-square)
+[![github-repository-trophies](https://github-profile-trophy.vercel.app/?username=Prrajaljain&theme=tokyonight&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | Python (Mastered), SQL (Full DBMS Syllabus), C++ (Embedded) |
-| **AI & Vision** | TensorFlow, YOLOv8, OpenCV, MediaPipe |
-| **Robotics** | ESP32, Raspberry Pi, PID Control, Sensor Fusion |
-| **Databases** | MySQL, SQLite (ACID Compliance, Schema Design) |
-| **DevOps/Tools** | Git, GitHub Actions, Linux, VS Code |
+### 📡 Live Prrajal-Bot-v1.0 Telemetry
+| Subsystem | Status | Health |
+| :--- | :--- | :--- |
+| **Vision (OpenCV)** | 🟢 Online | ![95%](https://geps.dev/progress/95) |
+| **Motion (PID Logic)** | 🟡 Standby | ![80%](https://geps.dev/progress/80) |
+| **Database (SQL)** | 🔵 Syncing | ![100%](https://geps.dev/progress/100) |
+| **Power (ESP32)** | 🟢 Optimal | ![85%](https://geps.dev/progress/85) |
 
+---
 
+## 🛠️ Technical Arsenal (RPG Stats)
+**Python (Core AI Logic)** ![90%](https://geps.dev/progress/90)
+**SQL (DBMS Mastery)** ![100%](https://geps.dev/progress/100)
+**Robotics (ESP32/C++)** ![75%](https://geps.dev/progress/75)
+**AI (Vision/TensorFlow)** ![80%](https://geps.dev/progress/80)
 
 ---
 
@@ -34,26 +42,19 @@ I specialize in bridging the gap between sophisticated software and physical har
 
 ---
 
-## 📈 My Coding Journey
-I am a dedicated developer with a 100% commitment to daily progress.
+## 🐍 Contribution Snake
+This snake "eats" my green contribution squares every 12 hours!
+![Snake Animation](https://github.com/Prrajaljain/Prrajaljain/blob/output/github-snake-dark.svg)
 
+## 📈 Coding Metrics
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prrajaljain&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prrajaljain&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
-## 🌱 Currently Learning
-* Advanced **Pathfinding Algorithms** (A*, Dijkstra) for Indoor AMRs.
-* **NLP** for voice-controlled robotic interfaces.
-* **AWS Cloud Foundations** for IoT data scaling.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prrajaljain&layout=compact&theme=tokyonight&hide=html,css)
 
 ---
 
 ## 📫 Let's Connect!
 * 💼 **LinkedIn:** [in/prajaljain23](https://www.linkedin.com/in/prajaljain23)
 * 📧 **Email:** prrajal.jain@gmail.com
-* 📍 **Location:** Pune, Maharashtra, India
 
 ---
 *"The best way to predict the future is to code it."*
-
