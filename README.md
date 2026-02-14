@@ -14,12 +14,14 @@ I specialize in deploying **Computer Vision** models on **Edge Hardware**. My wo
  Core: Specialized in YOLOv8, CNN architectures, and supervised model development.
  Workflow: Experienced in Model Training & Evaluation, including validation and tuning.
 
+
 **Robotics & Embedded Systems**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ros,arduino" />
 </p>
 Control: Focused on PID Control, Sensor Fusion (IMU/GPS), and path planning.
 Integration: Low-level programming in C/C++ for ESP32 and Arduino platforms.
+
 
 **Data Engineering & Infrastructure**
 <p align="left">
