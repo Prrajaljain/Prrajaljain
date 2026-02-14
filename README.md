@@ -1,29 +1,32 @@
 # Prrajal Jain
 
-**Computer Engineer | AI, Robotics & Embedded Systems**
-I develop and deploy **Computer Vision** models on **Edge Hardware**. My work focuses on real-time object detection and autonomous navigation systems.
+**Computer Engineer | AI & Robotics Specialist**
+I specialize in deploying **Computer Vision** models on **Edge Hardware**. My work focuses on integrating **YOLOv8** and **TensorFlow** with **Raspberry Pi** and **ROS** for autonomous systems.
 
 ---
 
-### 💻 Technical Stack
+### 💻 Technical Skill Matrix
 
 **Artificial Intelligence & Vision**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,cpp" />
 </p>
-* Specialized in **YOLOv8**, **CNN architectures**, and **Model Training/Evaluation**.
+* **Core:** Specialized in **YOLOv8**, **CNN architectures**, and supervised model development.
+* **Workflow:** Experienced in **Model Training & Evaluation**, including validation and tuning.
 
 **Robotics & Embedded Systems**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ros,arduino" />
 </p>
-* Focused on **Sensor Fusion**, **PID Control**, and **AMR Mapping**.
+* **Control:** Focused on **PID Control**, **Sensor Fusion (IMU/GPS)**, and path planning.
+* **Integration:** Low-level programming in **C/C++** for **ESP32** and **Arduino** platforms.
 
-**Data & Infrastructure**
+**Data Engineering & Infrastructure**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,aws,git,github" />
 </p>
-* Experience with **SQL (Joins/Aggregations)**, **AWS Cloud**, and **Git version control**.
+* **Analysis:** Relational data querying using **SQL (Joins/Aggregations)** and data preprocessing.
+* **Platforms:** Version control via **Git** and cloud deployment on **AWS**.
 
 ---
 
@@ -33,13 +36,11 @@ I develop and deploy **Computer Vision** models on **Edge Hardware**. My work fo
 ---
 
 ### 📂 Featured Engineering Projects
+* **[AI Crowd Monitoring](https://github.com/Prrajaljain/AI_Crowd_Monitoring)**: Real-time person detection and counting using YOLOv8.
+* **[AI Waste Segregator](https://github.com/Prrajaljain/AI-powered-waste-sorter)**: TensorFlow-based sorting system deployed on Raspberry Pi.
 
-* **[AI Crowd Monitoring](https://github.com/Prrajaljain/AI_Crowd_Monitoring)**: Real-time person detection and counting using **YOLOv8**.
-* **[AI Waste Segregator](https://github.com/Prrajaljain/AI-powered-waste-sorter)**: **TensorFlow** sorting system deployed on **Raspberry Pi**.
-* **[Autonomous Vision-Based Drone](Your-Link-Here)**: Vision-based navigation and obstacle avoidance logic.
-* **[Indoor AMR Project](Your-Link-Here)**: **CNN-based** autonomous mobile robot for indoor mapping.
 
 ---
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/prajaljain23)
+[LinkedIn](https://www.linkedin.com/in/prajaljain23) | [Portfolio Website](Your-Link-Here)
