@@ -1,4 +1,4 @@
-# Prrajal Jain
+#  Prajal Jain
 
 Computer Engineer specializing in **Computer Vision** and **Embedded AI**. I build systems that integrate **YOLOv8** and **TensorFlow** with **Raspberry Pi** and **ROS**.
 
