@@ -1,34 +1,31 @@
-# 🤖 System Status: Online | Prrajal Jain 👋
+# Prrajal Jain
 
-### 🛰️ Computer Engineering | AI & Robotics Specialist | Python Developer
-I bridge the gap between software and hardware. Currently focusing on **YOLOv8** computer vision, **autonomous drone navigation**, and **vision-based waste management**.
+Computer Engineer specializing in **Computer Vision** and **Embedded AI**. I build systems that integrate **YOLOv8** and **TensorFlow** with **Raspberry Pi** and **ROS**.
 
 ---
 
-### ⚡ Technical Diagnostic (Skills)
+### 🛠️ Tech Stack
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,raspberrypi,linux,ros,cpp,aws,mysql,git,github" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,raspberrypi,linux,ros,cpp,aws,git" />
 </p>
 
-* **AI & Vision:** Real-time object detection (YOLOv8), CNN architectures, and data normalization.
-* **Robotics:** Indoor mapping (AMR), sensor fusion, and autonomous flight paths.
-* **Engineering:** Prompt engineering patterns, AWS infrastructure, and Raspberry Pi integration.
+* **Vision & ML:** YOLOv8, CNN architectures, real-time object detection.
+* **Robotics:** Indoor AMR mapping, sensor fusion, autonomous drone navigation.
+* **Engineering:** AWS infrastructure, Linux systems, and Python-based automation.
 
 ---
 
-
-### 🎮 GitHub Activity Game
+### 🎮 Contribution Game
 ![Space Shooter](https://raw.githubusercontent.com/Prrajaljain/My_Portfolio_Assets/main/assets/space-shooter.gif)
 
-### 📂 Mission Log (Featured Projects)
-* **[AI Crowd Monitoring](https://github.com/Prrajaljain/AI_Crowd_Monitoring)**: Real-time person detection and counting using YOLOv8.
-* **[AI Waste Segregator](https://github.com/Prrajaljain/AI-powered-waste-sorter)**: Automated sorting utilizing TensorFlow on Raspberry Pi.
-* **[Autonomous Vision-Based Drone](https://github.com/Prrajaljain/Your-Drone-Repo)**: Obstacle avoidance and navigation fail-safes.
+---
+
+### 📁 Projects
+* **[AI Crowd Monitoring](https://github.com/Prrajaljain/AI_Crowd_Monitoring)**: Real-time person detection and analytics using YOLOv8.
+* **[AI Waste Segregator](https://github.com/Prrajaljain/AI-powered-waste-sorter)**: TensorFlow-based sorting system running on Raspberry Pi hardware.
+* **[Autonomous Drone](Your-Link-Here)**: Vision-based obstacle avoidance and navigation flight paths.
 
 ---
 
-### 📬 Connect with the Developer
-* **LinkedIn:** [linkedin.com/in/prajaljain23](https://www.linkedin.com/in/prajaljain23)
-* **Portfolio:** [Your Website Link]
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/prajaljain23) | [Portfolio Website](Your-Link-Here)
