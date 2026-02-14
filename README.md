@@ -14,12 +14,14 @@ I specialize in deploying **Computer Vision** models on **Edge Hardware**. My wo
 
 * Core: Specialized in **YOLOv8**, **CNN architectures**, 
 including **validation and tuning**.
-* **Robotics & Embedded Systems**
+
+**Robotics & Embedded Systems**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ros,arduino" />
 </p>
 
 * Focused on **Sensor Fusion**, **PID Control**, and **AMR Mapping**.
+
 
 **Data Engineering & Infrastructure**
 <p align="left">
