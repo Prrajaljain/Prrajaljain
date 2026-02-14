@@ -12,7 +12,7 @@ I specialize in deploying **Computer Vision** models on **Edge Hardware**. My wo
   <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,cpp" />
 </p>
 
-* Specialized in **YOLOv8**, **CNN architectures**, including **validation and tuning**.
+* Specialized in **YOLOv8**, **CNN architectures**, including **validation and tuning**.\n
 **Robotics & Embedded Systems**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ros,arduino" />
