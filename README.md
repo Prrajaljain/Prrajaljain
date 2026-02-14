@@ -23,8 +23,9 @@ I specialize in deploying **Computer Vision** models on **Edge Hardware**. My wo
 
 **Data Engineering & Infrastructure**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,git,github" />
 </p>
+* **Database Management:** Proficient in **PostgreSQL (PgSQL)** and **MySQL** for relational data, and **NoSQL (MongoDB)** for unstructured datasets.
 * **Analysis:** Relational data querying using **SQL (Joins/Aggregations)** and data preprocessing.
 * **Platforms:** Version control via **Git** and cloud deployment on **AWS**.
 
@@ -38,9 +39,9 @@ I specialize in deploying **Computer Vision** models on **Edge Hardware**. My wo
 ### 📂 Featured Engineering Projects
 * **[AI Crowd Monitoring](https://github.com/Prrajaljain/AI_Crowd_Monitoring)**: Real-time person detection and counting using YOLOv8.
 * **[AI Waste Segregator](https://github.com/Prrajaljain/AI-powered-waste-sorter)**: TensorFlow-based sorting system deployed on Raspberry Pi.
-
+* **[Autonomous Vision-Based Drone](Your-Link-Here)**: Obstacle avoidance and navigation fail-safes.
 
 ---
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/prajaljain23) | [Portfolio Website](Your-Link-Here)
+[LinkedIn](https://www.linkedin.com/in/prajaljain23)
