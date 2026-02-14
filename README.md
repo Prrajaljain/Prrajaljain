@@ -40,7 +40,7 @@ including **validation and tuning**.
 ### 📂 Featured Engineering Projects
 * **[AI Crowd Monitoring](https://github.com/Prrajaljain/AI_Crowd_Monitoring)**: Real-time person detection and counting using YOLOv8.
 * **[AI Waste Segregator](https://github.com/Prrajaljain/AI-powered-waste-sorter)**: TensorFlow-based sorting system deployed on Raspberry Pi.
-* **[Autonomous Vision-Based Drone](Your-Link-Here)**: Obstacle avoidance and navigation fail-safes.
+
 
 ---
 
