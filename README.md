@@ -9,7 +9,7 @@ I specialize in deploying **Computer Vision** models on **Edge Hardware**. My wo
 
 **Artificial Intelligence & Vision**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,cpp" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,cpp" \n
 </p>
 
 * Specialized in **YOLOv8**, **CNN architectures**, including **validation and tuning**.\n
