@@ -21,7 +21,7 @@ I specialize in deploying **Deep Learning** models onto **Edge Hardware** to sol
 
 # 🎮 GitHub Activity Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prrajaljain/My_Portfolio_Assets/main/assets/space-shooter.gif" width="750" />
+  <img src="https://raw.githubusercontent.com/Prrajaljain/My_Portfolio_Assets/assets/space-shooter.gif" width="750" />
 </p>
 
 ---
