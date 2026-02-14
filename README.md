@@ -3,8 +3,7 @@
 **Computer Engineer | AI & Robotics Specialist**
 I specialize in deploying **Computer Vision** models on **Edge Hardware**. My work focuses on integrating **YOLOv8** and **TensorFlow** with **Raspberry Pi** and **ROS** for autonomous systems.
 
-
-
+---
 
 ### 💻 Technical Skill Matrix
 
@@ -12,7 +11,7 @@ I specialize in deploying **Computer Vision** models on **Edge Hardware**. My wo
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,cpp" />
 </p>
-* **Core:** Specialized in **YOLOv8**, **CNN architectures**, and supervised model development.
+* Core: Specialized in **YOLOv8**, **CNN architectures**, and supervised model development.
 * **Workflow:** Experienced in **Model Training & Evaluation**, including validation and tuning.
 
 **Robotics & Embedded Systems**
