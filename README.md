@@ -20,9 +20,8 @@ I bridge the gap between software and hardware. Currently focusing on **YOLOv8**
 
 ### 🎮 GitHub Activity Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prrajaljain/My_Portfolio_Assets/main/assets/space-shooter.gif" width="750" alt="GitHub Space Shooter" />
+  <img src="https://raw.githubusercontent.com/Prrajaljain/My_Portfolio_Assets/main/assets/space-shooter.gif" width="800" alt="GitHub Space Shooter" />
 </p>
-
 ---
 
 ### 📂 Mission Log (Featured Projects)
