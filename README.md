@@ -21,7 +21,6 @@ I bridge the gap between software and hardware. Currently focusing on **YOLOv8**
 
 ### 🎮 GitHub Activity Game
 ![Space Shooter](https://raw.githubusercontent.com/Prrajaljain/My_Portfolio_Assets/main/assets/space-shooter.gif)
----
 
 ### 📂 Mission Log (Featured Projects)
 * **[AI Crowd Monitoring](https://github.com/Prrajaljain/AI_Crowd_Monitoring)**: Real-time person detection and counting using YOLOv8.
