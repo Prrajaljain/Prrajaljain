@@ -1,6 +1,6 @@
-#  Prajal Jain
+# Prrajal Jain
 
-Computer Engineer specializing in **Computer Vision** and **Embedded AI**. I build systems that integrate **YOLOv8** and **TensorFlow** with **Raspberry Pi** and **ROS**.
+Computer Engineer | AI & Robotics. I deploy **Computer Vision** models on **Edge Hardware**.
 
 ---
 
@@ -9,9 +9,9 @@ Computer Engineer specializing in **Computer Vision** and **Embedded AI**. I bui
   <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv,raspberrypi,linux,ros,cpp,aws,git" />
 </p>
 
-* **Vision & ML:** YOLOv8, CNN architectures, real-time object detection.
-* **Robotics:** Indoor AMR mapping, sensor fusion, autonomous drone navigation.
-* **Engineering:** AWS infrastructure, Linux systems, and Python-based automation.
+- **AI & Vision:** YOLOv8, CNN architectures, real-time detection.
+- **Robotics:** Indoor AMR, sensor fusion, autonomous navigation.
+- **Tools:** AWS, Linux, Python-based automation.
 
 ---
 
@@ -20,12 +20,12 @@ Computer Engineer specializing in **Computer Vision** and **Embedded AI**. I bui
 
 ---
 
-### 📁 Projects
-* **[AI Crowd Monitoring](https://github.com/Prrajaljain/AI_Crowd_Monitoring)**: Real-time person detection and analytics using YOLOv8.
-* **[AI Waste Segregator](https://github.com/Prrajaljain/AI-powered-waste-sorter)**: TensorFlow-based sorting system running on Raspberry Pi hardware.
-* **[Autonomous Drone](Your-Link-Here)**: Vision-based obstacle avoidance and navigation flight paths.
+### 📁 Featured Work
+* **[AI Crowd Monitoring](https://github.com/Prrajaljain/AI_Crowd_Monitoring)**: Real-time person analytics using YOLOv8.
+* **[AI Waste Segregator](https://github.com/Prrajaljain/AI-powered-waste-sorter)**: TensorFlow sorting system on Raspberry Pi.
+* **[Autonomous Drone](Your-Link-Here)**: Vision-based obstacle avoidance.
 
 ---
 
 ### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/prajaljain23) | [Portfolio Website](Your-Link-Here)
+[LinkedIn](https://www.linkedin.com/in/prajaljain23)
